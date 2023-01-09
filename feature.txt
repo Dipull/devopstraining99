@@ -1,1 +1,1 @@
-featureA
+latest update in featureA
