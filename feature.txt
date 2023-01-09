@@ -1,2 +1,3 @@
 featureA
+featureB
 latest update in featureA
