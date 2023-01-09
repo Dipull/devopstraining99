@@ -1,3 +1,6 @@
 featureA
 
 latest update in featureA
+featureB
+
+featureBBB
